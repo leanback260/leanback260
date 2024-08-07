@@ -8,24 +8,7 @@
   𝖙𝖌 - 𝖘𝖓𝖔𝖔𝖑𝖔𝖇𝖘𝖙𝖊𝖗𝖘 
     <br />
     <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
+
 
   
   <img src="https://i.ibb.co/ydsFhSS/hicolor.gif" style="max-width: 50%;" alt="Welcome to my Github Profile" />
